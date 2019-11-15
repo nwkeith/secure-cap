@@ -9,4 +9,5 @@ A security system with a Raspberry Pi at its core
   more documentation on setting up the HC-SRO4 sensor on the raspberry pi: http://www.piddlerintheroot.com/hc-sr04/
   ***
   others are also facing difficulty with the while loop that we keep getting stuck in: https://stackoverflow.com/questions/36474735/raspberry-pi-python-loop-stop-to-work
- 
+ ***
+ https://raspberrypi.stackexchange.com/questions/41159/ultrasonic-sensor-stops-after-giving-some-reading-when-running-in-thread-on-torn
